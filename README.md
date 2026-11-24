@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Darkshanu 👋
 
-<!--
-**Darkshanu/Darkshanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 About Me
+Web3, Blockchain & Open Source Enthusiast | Exploring Bitcoin, Avail Light & Soundness
 
-Here are some ideas to get you started:
+## 🚀 Active Focus & Projects
+- Bitcoin
+- Avail Light
+- Soundness
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+- Web3 & Blockchain Development
+- Node Operation & Light Clients
+- Open Source & Git
